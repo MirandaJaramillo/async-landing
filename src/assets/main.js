@@ -5,6 +5,7 @@ const API =
 
 const content = null || document.getElementById('content');
 
+// Testing new github handles
 const options = {
   method: 'GET',
   headers: {
